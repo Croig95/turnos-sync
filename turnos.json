@@ -29,7 +29,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Alfredo","Joseph","","Claudia (Vacaciones)","Maximo",""]
+          "dias":["Alfredo","Joseph","","Claudia","Maximo",""]
         },
         {
           "tipo":"B",
@@ -50,7 +50,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Fernando","Claudia (Vacaciones)","Cristobal","Alejandro","Paco","Santiago"]
+          "dias":["Fernando","Claudia","Cristobal","Alejandro","Paco","Santiago"]
         },
         {
           "tipo":"A",
@@ -58,7 +58,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Antoni","Dani","Alejandro","Claudia (Vacaciones)","Alba",""]
+          "dias":["Antoni","Dani","Alejandro","Claudia","Alba",""]
         },
         {
           "tipo":"B",
@@ -83,7 +83,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Claudia (Vacaciones)","Fernando","Cristian","Reveca","",""]
+          "dias":["Claudia","Fernando","Cristian","Reveca","",""]
         },
         {
           "tipo":"A",
@@ -103,7 +103,7 @@
         },
         {
           "tipo":"B",
-          "dias":["","Claudia (Vacaciones)","Maximo","Alfredo","",""]
+          "dias":["","Claudia","Maximo","Alfredo","",""]
         },
         {
           "tipo":"B",
@@ -120,7 +120,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Claudia (Vacaciones)","Fernando","Jose","Aaron",""]
+          "dias":["Ramon","Claudia","Fernando","Jose","Aaron",""]
         },
         {
           "tipo":"A",
@@ -136,7 +136,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Claudia (Vacaciones)","Fernando","Alfredo","Paco","Ramon",""]
+          "dias":["Claudia","Fernando","Alfredo","Paco","Ramon",""]
         },
         {
           "tipo":"B",
@@ -161,7 +161,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Alfredo","","Julen","Aaron (Vacaciones)","Joseph","Maximo"]
+          "dias":["Alfredo","","Julen","Aaron","Joseph","Maximo"]
         },
         {
           "tipo":"A",
@@ -177,7 +177,7 @@
         },
         {
           "tipo":"B",
-          "dias":["","Julen","Paco","Jose","Aaron (Vacaciones)",""]
+          "dias":["","Julen","Paco","Jose","Aaron",""]
         },
         {
           "tipo":"B",
@@ -198,7 +198,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Dani","","Aaron (Vacaciones)","Joseph","Cristobal","Jose"]
+          "dias":["Dani","","Aaron","Joseph","Cristobal","Jose"]
         },
         {
           "tipo":"A",
@@ -214,7 +214,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Cristobal","Santiago","Julen","Aaron (Vacaciones)","Joseph",""]
+          "dias":["Cristobal","Santiago","Julen","Aaron","Joseph",""]
         },
         {
           "tipo":"B",
@@ -235,7 +235,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Jose","Aaron (Vacaciones)","Antoni","Santiago","Dani","Cristobal"]
+          "dias":["Jose","Aaron","Antoni","Santiago","Dani","Cristobal"]
         },
         {
           "tipo":"A",
@@ -251,7 +251,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Dani","Jose","Aaron (Vacaciones)","Julen","Alejandro",""]
+          "dias":["Dani","Jose","Aaron","Julen","Alejandro",""]
         },
         {
           "tipo":"B",
@@ -272,7 +272,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Aaron (Vacaciones)","Joseph","Cristobal","Dani","Santiago","Julen"]
+          "dias":["Aaron","Joseph","Cristobal","Dani","Santiago","Julen"]
         },
         {
           "tipo":"A",
@@ -288,7 +288,7 @@
         },
         {
           "tipo":"B",
-          "dias":["","Aaron (Vacaciones)","Joseph","Cristobal","Dani",""]
+          "dias":["","Aaron","Joseph","Cristobal","Dani",""]
         },
         {
           "tipo":"B",
@@ -305,7 +305,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Maximo","Aaron (Vacaciones)","Jose","Paco","Alfredo",""]
+          "dias":["Maximo","Aaron","Jose","Paco","Alfredo",""]
         },
         {
           "tipo":"A",
@@ -321,7 +321,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Aaron (Vacaciones)","Jose","Paco","Alfredo","Maximo",""]
+          "dias":["Aaron","Jose","Paco","Alfredo","Maximo",""]
         },
         {
           "tipo":"B",
@@ -907,11 +907,11 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Fernando","Claudia (Vacaciones)","Maximo","Joseph","Aaron",""]
+          "dias":["Fernando","Claudia","Maximo","Joseph","Aaron",""]
         },
         {
           "tipo":"A",
-          "dias":["Jose","Dani","Cristobal","Antoni","Alba (Vacaciones)",""]
+          "dias":["Jose","Dani","Cristobal","Antoni","Alba",""]
         },
         {
           "tipo":"A",
@@ -936,7 +936,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Santiago","Antoni","Alba (Vacaciones)","Reveca","Joseph"]
+          "dias":["Ramon","Santiago","Antoni","Alba","Reveca","Joseph"]
         },
         {
           "tipo":"A",
@@ -953,7 +953,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Joseph","Julen","Alba (Vacaciones)","Carlos","Cristobal",""]
+          "dias":["Joseph","Julen","Alba","Carlos","Cristobal",""]
         },
         {
           "tipo":"A",
@@ -974,7 +974,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","Alba (Vacaciones)","Julen","Alejandro","Dani",""]
+          "dias":["Cristobal","Alba","Julen","Alejandro","Dani",""]
         },
         {
           "tipo":"A",
@@ -999,7 +999,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Alba (Vacaciones)","","Alfredo","Reveca","Cristian","Ramon"]
+          "dias":["Alba","","Alfredo","Reveca","Cristian","Ramon"]
         },
         {
           "tipo":"A",
@@ -1016,7 +1016,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","Alba (Vacaciones)","Antoni","Santiago","Julen",""]
+          "dias":["Alejandro","Alba","Antoni","Santiago","Julen",""]
         },
         {
           "tipo":"A",
@@ -1032,7 +1032,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Alba (Vacaciones)","Antoni","Santiago","Julen","Alejandro",""]
+          "dias":["Alba","Antoni","Santiago","Julen","Alejandro",""]
         },
         {
           "tipo":"B",
