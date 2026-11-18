@@ -58,7 +58,7 @@
         },
         {
           "tipo":"A",
-          "dias":["","Paco","","Carlos","Alba",""]
+          "dias":["Daniel","Paco","","Carlos","Alba",""]
         },
         {
           "tipo":"B",
@@ -70,7 +70,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Claudia","Alfredo","Fernando","","Daniel"]
+          "dias":["Aaron","Claudia","Alfredo","Fernando","Daniel","Maximo"]
         }
       ]
     },
