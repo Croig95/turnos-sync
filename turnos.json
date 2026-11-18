@@ -1,1638 +1,1638 @@
 {
   "semanas": [
     {
-      "lunes":"2027-01-04",
+      "lunes":"2026-01-05",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Antoni","Reveca","","Julen","Santiago",""]
+          "dias":["Aaron","","Maximo","Carlos","Antoni",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristian","Fernando","","Carlos","Alba",""]
+          "dias":["Julen (Baja)","","Cristobal","Claudia","Jorge",""]
         },
         {
           "tipo":"A",
-          "dias":["Paco","","","Maximo","Alfredo","Dani"]
+          "dias":["Jose","","Ramon","Alfredo","Joseph","Alejandro"]
         },
         {
           "tipo":"A",
-          "dias":["","","","Aaron","Jose","Cristobal"]
+          "dias":["","","Fernando","Alba","Paco","Cristian"]
         },
         {
           "tipo":"B",
-          "dias":["Santiago","Ramon","","Alejandro","Julen",""]
+          "dias":["Antoni","","Claudia","Maximo","Carlos",""]
         },
         {
           "tipo":"B",
-          "dias":["Reveca","Cristian","","Alba","Antoni",""]
+          "dias":["Dani (Vacaciones)","","Reveca","Jorge","Aaron",""]
         },
         {
           "tipo":"B",
-          "dias":["Alfredo","Joseph","","Claudia","Maximo",""]
+          "dias":["Joseph","","Alba","Ramon","Alfredo",""]
         },
         {
           "tipo":"B",
-          "dias":["","","","Jose","Paco",""]
+          "dias":["Santiago (Vacaciones)","","","Paco","Jose",""]
         }
       ]
     },
     {
-      "lunes":"2027-01-11",
+      "lunes":"2026-01-12",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Dani","Alejandro","Reveca","Ramon","Antoni",""]
+          "dias":["Alejandro","Maximo","Dani","Cristobal","Aaron",""]
         },
         {
           "tipo":"A",
-          "dias":["Alba","Cristian","Maximo","Alfredo","Carlos",""]
+          "dias":["Jorge","Julen","Alfredo","Joseph","Claudia",""]
         },
         {
           "tipo":"A",
-          "dias":["Fernando","Claudia","Cristobal","Alejandro","Paco","Santiago"]
+          "dias":["Reveca","Ramon","Santiago","Fernando","Jose","Antoni"]
         },
         {
           "tipo":"A",
-          "dias":["Jose","","","","Aaron","Julen"]
+          "dias":["Paco","Cristian","","","Alba","Carlos"]
         },
         {
           "tipo":"B",
-          "dias":["Antoni","Dani","Alejandro","Claudia","Alba",""]
+          "dias":["Aaron","Alejandro","Maximo","Claudia","Jorge",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristian","Reveca","Ramon","Maximo","Alfredo",""]
+          "dias":["Julen","Dani","Cristobal","Alfredo","Joseph",""]
         },
         {
           "tipo":"B",
-          "dias":["Paco","Fernando","Carlos","Aaron","Jose",""]
+          "dias":["Jose","Reveca","Ramon","Alba","Paco",""]
         },
         {
           "tipo":"B",
-          "dias":["","Cristobal","Joseph","","",""]
+          "dias":["Cristian","Santiago","Fernando","","",""]
         }
       ]
     },
     {
-      "lunes":"2027-01-18",
+      "lunes":"2026-01-19",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alejandro","Julen","Santiago","Antoni","",""]
+          "dias":["Maximo","Carlos","Antoni","","Cristobal",""]
         },
         {
           "tipo":"A",
-          "dias":["Claudia","Fernando","Cristian","Reveca","",""]
+          "dias":["Ramon","Reveca","Julen","","Paco",""]
         },
         {
           "tipo":"A",
-          "dias":["Aaron","Maximo","Alfredo","Paco","","Carlos"]
+          "dias":["Alba","Alfredo","Joseph","","Fernando","Claudia"]
         },
         {
           "tipo":"A",
-          "dias":["","","Dani","Cristobal","","Alba"]
+          "dias":["","Alejandro","Cristian","","","Jorge"]
         },
         {
           "tipo":"B",
-          "dias":["Fernando","Alejandro","Julen","Santiago","",""]
+          "dias":["Reveca","Maximo","Carlos","","Aaron",""]
         },
         {
           "tipo":"B",
-          "dias":["Jose","Cristian","Reveca","Ramon","",""]
+          "dias":["Paco","Julen","Dani","","Jose",""]
         },
         {
           "tipo":"B",
-          "dias":["","Claudia","Maximo","Alfredo","",""]
+          "dias":["Alejandro","Ramon","Alfredo","","Alba",""]
         },
         {
           "tipo":"B",
-          "dias":["","Dani","Cristobal","Joseph","",""]
+          "dias":["","Cristian","Santiago","","",""]
         }
       ]
     },
     {
-      "lunes":"2027-01-25",
+      "lunes":"2026-01-26",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Julen","Santiago","Antoni","Alba","Carlos",""]
+          "dias":["Carlos","Antoni","Aaron","Jorge","Claudia",""]
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Claudia","Fernando","Jose","Aaron",""]
+          "dias":["Cristobal","Ramon","Reveca","Paco","Alba",""]
         },
         {
           "tipo":"A",
-          "dias":["Maximo","Alfredo","Paco","Dani","Cristobal","Cristian"]
+          "dias":["Alfredo","Joseph","Jose","Cristian","Santiago","Julen"]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","","Alejandro","","","Reveca"]
+          "dias":["Fernando","Maximo","Alejandro","","","Dani"]
         },
         {
           "tipo":"B",
-          "dias":["Carlos","Julen","Santiago","Antoni","Alba",""]
+          "dias":["Claudia","Carlos","Antoni","Aaron","Jorge",""]
         },
         {
           "tipo":"B",
-          "dias":["Claudia","Fernando","Alfredo","Paco","Ramon",""]
+          "dias":["Ramon","Reveca","Joseph","Jose","Cristobal",""]
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Maximo","Dani","Cristobal","Jose",""]
+          "dias":["Alba","Alfredo","Cristian","Santiago","Paco",""]
         },
         {
           "tipo":"B",
-          "dias":["","Alejandro","","","Joseph",""]
+          "dias":["Maximo","Alejandro","","","Fernando",""]
         }
       ]
     },
     {
-      "lunes":"2027-02-01",
+      "lunes":"2026-02-02",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Santiago","Antoni","Alba","Carlos","Ramon",""]
+          "dias":["Antoni","Aaron","Jorge","Claudia","Cristobal",""]
         },
         {
           "tipo":"A",
-          "dias":["Reveca","Paco","Jose","Fernando","Cristian",""]
+          "dias":["Dani","Jose","Paco","Reveca","Julen",""]
         },
         {
           "tipo":"A",
-          "dias":["Alfredo","","Julen","Aaron","Joseph","Maximo"]
+          "dias":["Joseph","Carlos","Maximo","Alba","Fernando","Alfredo"]
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","","","Alejandro","Dani","Claudia"]
+          "dias":["Santiago","","","Alejandro","Cristian","Ramon"]
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Santiago","Antoni","Alba","Carlos",""]
+          "dias":["Cristobal","Antoni","Aaron","Jorge","Claudia",""]
         },
         {
           "tipo":"B",
-          "dias":["Joseph","Alfredo","Fernando","Cristian","Reveca",""]
+          "dias":["Fernando","Joseph","Reveca","Julen","Dani",""]
         },
         {
           "tipo":"B",
-          "dias":["","Julen","Paco","Jose","Aaron",""]
+          "dias":["Carlos","Maximo","Jose","Paco","Alba",""]
         },
         {
           "tipo":"B",
-          "dias":["","","Alejandro","Dani","Cristobal",""]
+          "dias":["","","Alejandro","Cristian","Santiago",""]
         }
       ]
     },
     {
-      "lunes":"2027-02-08",
+      "lunes":"2026-02-09",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Antoni","Alba","Carlos","Ramon","Reveca",""]
+          "dias":["Aaron","Jorge","Claudia","Cristobal","Dani",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristian","Alfredo","Maximo","Claudia","Fernando",""]
+          "dias":["Julen","Joseph","Alfredo","Ramon","Reveca",""]
         },
         {
           "tipo":"A",
-          "dias":["Dani","","Aaron","Joseph","Cristobal","Jose"]
+          "dias":["Cristian","Antoni","Alba","Fernando","Santiago","Paco"]
         },
         {
           "tipo":"A",
-          "dias":["","","Santiago","Julen","Alejandro","Paco"]
+          "dias":["","","Carlos","Maximo","Alejandro","Jose"]
         },
         {
           "tipo":"B",
-          "dias":["Reveca","Antoni","Alba","Carlos","Ramon",""]
+          "dias":["Dani","Aaron","Jorge","Claudia","Cristobal",""]
         },
         {
           "tipo":"B",
-          "dias":["Alfredo","Maximo","Claudia","Fernando","Cristian",""]
+          "dias":["Joseph","Alfredo","Ramon","Reveca","Julen",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristobal","Santiago","Julen","Aaron","Joseph",""]
+          "dias":["Santiago","Carlos","Maximo","Alba","Fernando",""]
         },
         {
           "tipo":"B",
-          "dias":["","","","Alejandro","Dani",""]
+          "dias":["Antoni","","","Alejandro","Cristian",""]
         }
       ]
     },
     {
-      "lunes":"2027-02-15",
+      "lunes":"2026-02-16",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alba","Carlos","Ramon","Reveca","Cristian",""]
+          "dias":["Jorge","Claudia","Cristobal","Dani","Julen",""]
         },
         {
           "tipo":"A",
-          "dias":["Fernando","Paco","Alfredo","Maximo","Claudia",""]
+          "dias":["Reveca (Vacaciones)","Jose","Joseph","Alfredo","Ramon",""]
         },
         {
           "tipo":"A",
-          "dias":["Jose","Aaron","Antoni","Santiago","Dani","Cristobal"]
+          "dias":["Paco","Alba","Antoni","Carlos","Cristian","Santiago"]
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","","","","Julen","Joseph"]
+          "dias":["Alejandro","Aaron","","","Maximo","Fernando"]
         },
         {
           "tipo":"B",
-          "dias":["Cristian","Alba","Carlos","Ramon","Reveca",""]
+          "dias":["Julen","Jorge","Claudia","Cristobal","Dani",""]
         },
         {
           "tipo":"B",
-          "dias":["Paco","Alfredo","Maximo","Claudia","Fernando",""]
+          "dias":["Jose","Joseph","Alfredo","Ramon","Reveca",""]
         },
         {
           "tipo":"B",
-          "dias":["Dani","Jose","Aaron","Julen","Alejandro",""]
+          "dias":["Cristian","Paco","Alba","Maximo","Alejandro",""]
         },
         {
           "tipo":"B",
-          "dias":["","Antoni","Santiago","","",""]
+          "dias":["Aaron","Antoni","Carlos","","",""]
         }
       ]
     },
     {
-      "lunes":"2027-02-22",
+      "lunes":"2026-02-23",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Carlos","Ramon","Reveca","Cristian","Fernando",""]
+          "dias":["Claudia","Cristobal","Dani","Julen","Reveca",""]
         },
         {
           "tipo":"A",
-          "dias":["Claudia","Jose","Paco","Alfredo","Maximo",""]
+          "dias":["Ramon","Paco","Jose","Joseph","Alfredo",""]
         },
         {
           "tipo":"A",
-          "dias":["Aaron","Joseph","Cristobal","Dani","Santiago","Julen"]
+          "dias":["Alba","Fernando","Santiago","Cristian","Carlos","Maximo"]
         },
         {
           "tipo":"A",
-          "dias":["","","Alba","Antoni","","Alejandro"]
+          "dias":["","Jorge","Aaron","Antoni","","Alejandro"]
         },
         {
           "tipo":"B",
-          "dias":["Fernando","Carlos","Ramon","Reveca","Cristian",""]
+          "dias":["Reveca","Claudia","Cristobal","Dani","Julen",""]
         },
         {
           "tipo":"B",
-          "dias":["Jose","Paco","Alfredo","Maximo","Claudia",""]
+          "dias":["Paco","Jose","Joseph","Alfredo","Ramon",""]
         },
         {
           "tipo":"B",
-          "dias":["","Aaron","Joseph","Cristobal","Dani",""]
+          "dias":["Jorge","Alba","Fernando","Santiago","Cristian",""]
         },
         {
           "tipo":"B",
-          "dias":["","Alba","Antoni","Santiago","",""]
+          "dias":["","Aaron","Antoni","Carlos","",""]
         }
       ]
     },
     {
-      "lunes":"2027-03-01",
+      "lunes":"2026-03-02",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Ramon","Reveca","Cristian","Fernando","Claudia",""]
+          "dias":["Cristobal","Dani","Julen","Reveca","Ramon",""]
         },
         {
           "tipo":"A",
-          "dias":["Maximo","Aaron","Jose","Paco","Alfredo",""]
+          "dias":["Alfredo","Alba","Paco","Jose","Joseph",""]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","Cristobal","Dani","Alejandro","Julen","Alba"]
+          "dias":["Fernando","Santiago","Cristian","Alejandro","Maximo","Aaron"]
         },
         {
           "tipo":"A",
-          "dias":["Santiago","","Carlos","","","Antoni"]
+          "dias":["Carlos","Claudia","Jorge","","","Antoni"]
         },
         {
           "tipo":"B",
-          "dias":["Claudia","Ramon","Reveca","Cristian","Fernando",""]
+          "dias":["Ramon","Cristobal","Dani","Julen","Reveca",""]
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Jose","Paco","Alfredo","Maximo",""]
+          "dias":["Alba","Paco","Jose","Joseph","Alfredo",""]
         },
         {
           "tipo":"B",
-          "dias":["Julen","Joseph","Cristobal","Dani","Alejandro",""]
+          "dias":["Maximo","Fernando","Santiago","Cristian","Alejandro",""]
         },
         {
           "tipo":"B",
-          "dias":["","Carlos","","","Santiago",""]
+          "dias":["Claudia","Jorge","","","Carlos",""]
         }
       ]
     },
     {
-      "lunes":"2027-03-08",
+      "lunes":"2026-03-09",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alfredo","Cristian","Fernando","Claudia","Maximo",""]
+          "dias":["Dani","Julen","Reveca","Ramon","Alfredo",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","Joseph","Aaron","Jose","Paco",""]
+          "dias":["Joseph","Fernando","Alba","Paco","Jose",""]
         },
         {
           "tipo":"A",
-          "dias":["Antoni","Dani","Alejandro","Julen","Santiago","Ramon"]
+          "dias":["Santiago","Cristian","Alejandro","Maximo","Carlos","Cristobal"]
         },
         {
           "tipo":"A",
-          "dias":["","","","Carlos","Alba","Reveca"]
+          "dias":["Antoni","","","Jorge","Aaron","Claudia"]
         },
         {
           "tipo":"B",
-          "dias":["Maximo","Aaron","Cristian","Fernando","Claudia",""]
+          "dias":["Alfredo","Dani","Julen","Reveca","Ramon",""]
         },
         {
           "tipo":"B",
-          "dias":["Joseph","Cristobal","Jose","Paco","Alfredo",""]
+          "dias":["Fernando","Alba","Paco","Jose","Joseph",""]
         },
         {
           "tipo":"B",
-          "dias":["Santiago","","Dani","Alejandro","Julen",""]
+          "dias":["Carlos","Santiago","Cristian","Alejandro","Maximo",""]
         },
         {
           "tipo":"B",
-          "dias":["","","Carlos","Alba","Antoni",""]
+          "dias":["","","Jorge","Aaron","Antoni",""]
         }
       ]
     },
     {
-      "lunes":"2027-03-15",
+      "lunes":"2026-03-16",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Cristian","Cristobal","Joseph","Maximo","Alfredo",""]
+          "dias":["Jose","Santiago","Ramon (Vacaciones)","","Joseph (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Paco","Alejandro","Julen","Aaron","Jose",""]
+          "dias":["Cristian","Alejandro","Fernando (Vacaciones)","","Paco (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Dani","","Reveca","Santiago","Antoni","Claudia"]
+          "dias":["Aaron (Vacaciones)","Dani (Vacaciones)","Maximo (Vacaciones)","","Antoni","Reveca"]
         },
         {
           "tipo":"A",
-          "dias":["Alba","","","Ramon","Carlos","Fernando"]
+          "dias":["","","Cristobal (Vacaciones)","","Jorge","Julen"]
         },
         {
           "tipo":"B",
-          "dias":["Alfredo","Cristian","Aaron","Jose","Maximo",""]
+          "dias":["Joseph","Fernando","Alba (Vacaciones)","","Alfredo (Vacaciones)",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristobal","Joseph","Alejandro","Julen","Paco",""]
+          "dias":["Santiago","Cristian","Alejandro (Vacaciones)","","Jose",""]
         },
         {
           "tipo":"B",
-          "dias":["Antoni","Dani","Ramon","Carlos","Santiago",""]
+          "dias":["Antoni","Cristobal","Claudia (Vacaciones)","","Carlos",""]
         },
         {
           "tipo":"B",
-          "dias":["","Reveca","","","Alba",""]
+          "dias":["Dani (Vacaciones)","","","","Aaron (Vacaciones)",""]
         }
       ]
     },
     {
-      "lunes":"2027-03-22",
+      "lunes":"2026-03-23",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Fernando","Claudia","Maximo","Joseph","",""]
+          "dias":["Reveca","Ramon","Santiago","Fernando","Jose",""]
         },
         {
           "tipo":"A",
-          "dias":["Jose","Dani","Cristobal","Antoni","",""]
+          "dias":["Paco","Cristian","Carlos","Antoni","Alba",""]
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","Julen","Santiago","Reveca","","Paco"]
+          "dias":["Alejandro","Maximo","Dani","Cristobal","Aaron","Joseph"]
         },
         {
           "tipo":"A",
-          "dias":["Carlos","","Cristian","","","Alfredo"]
+          "dias":["Jorge","Julen","","","Claudia","Alfredo"]
         },
         {
           "tipo":"B",
-          "dias":["Dani","Fernando","Claudia","Maximo","",""]
+          "dias":["Jose","Reveca","Ramon (Vacaciones)","Alba","Paco",""]
         },
         {
           "tipo":"B",
-          "dias":["Alba","Cristobal","Joseph","Aaron","",""]
+          "dias":["Cristian","Santiago","Fernando","Carlos","Antoni",""]
         },
         {
           "tipo":"B",
-          "dias":["","Alejandro","Julen","Santiago","",""]
+          "dias":["Aaron","Alejandro","Maximo","Claudia","Jorge",""]
         },
         {
           "tipo":"B",
-          "dias":["","Cristian","Reveca","Ramon","",""]
+          "dias":["Julen","Dani","Cristobal","","",""]
         }
       ]
     },
     {
-      "lunes":"2027-03-29",
+      "lunes":"2026-03-30",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["","Maximo","Alfredo","Paco","Jose",""]
+          "dias":["Ramon","Alfredo","Joseph","Jose","",""]
         },
         {
           "tipo":"A",
-          "dias":["","Alejandro","Dani","Cristobal","Carlos",""]
+          "dias":["Maximo","Alejandro","Cristian","Santiago","",""]
         },
         {
           "tipo":"A",
-          "dias":["","Santiago","Antoni","Alba","Reveca","Joseph"]
+          "dias":["Claudia","Carlos (Vacaciones)","Antoni","Aaron","","Alba"]
         },
         {
           "tipo":"A",
-          "dias":["","","Fernando","Cristian","","Aaron"]
+          "dias":["","Reveca","Julen","Dani","","Paco"]
         },
         {
           "tipo":"B",
-          "dias":["","Claudia","Maximo","Alfredo","Paco",""]
+          "dias":["Alejandro","Ramon","Alfredo","Joseph","",""]
         },
         {
           "tipo":"B",
-          "dias":["","Dani","Cristobal","Antoni","Alba",""]
+          "dias":["Jorge","Cristian","Santiago","Fernando (Vacaciones)","",""]
         },
         {
           "tipo":"B",
-          "dias":["","Julen","Santiago","Reveca","Ramon",""]
+          "dias":["Reveca","Maximo","Carlos (Vacaciones)","Antoni","",""]
         },
         {
           "tipo":"B",
-          "dias":["","Fernando","Cristian","","",""]
+          "dias":["","Julen","Dani","Cristobal","",""]
         }
       ]
     },
     {
-      "lunes":"2027-04-05",
+      "lunes":"2026-04-06",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Maximo","Alfredo","Paco","Jose","Aaron",""]
+          "dias":["","Joseph","Jose","Paco","Alba",""]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","Julen","Alba","Carlos","Cristobal",""]
+          "dias":["","Maximo","Alejandro","Jorge","Claudia",""]
         },
         {
           "tipo":"A",
-          "dias":["Santiago","Antoni","Claudia","Fernando","Ramon","Alejandro"]
+          "dias":["","Antoni","Aaron","Julen","Dani","Cristian"]
         },
         {
           "tipo":"A",
-          "dias":["Reveca","","","","Cristian","Dani"]
+          "dias":["","Ramon (Vacaciones)","Reveca","","","Santiago"]
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Maximo","Alfredo","Paco","Jose",""]
+          "dias":["","Alfredo","Joseph","Jose","Paco",""]
         },
         {
           "tipo":"B",
-          "dias":["Julen","Santiago","Antoni","Cristobal","Joseph",""]
+          "dias":["","Alejandro","Antoni","Aaron","Fernando",""]
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Claudia","Fernando","Alba","Carlos",""]
+          "dias":["","Carlos","Julen","Dani","Jorge",""]
         },
         {
           "tipo":"B",
-          "dias":["","","","Cristian","Reveca",""]
+          "dias":["","Reveca","","","Cristobal",""]
         }
       ]
     },
     {
-      "lunes":"2027-04-12",
+      "lunes":"2026-04-13",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alfredo","Paco","Jose","Aaron","Joseph",""]
+          "dias":["Joseph","Jose","Paco","Alba","Fernando",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","Alba","Julen","Alejandro","Dani",""]
+          "dias":["Santiago","Aaron","Jorge","Alejandro","Cristian",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristian","","Carlos","Ramon","Reveca","Antoni"]
+          "dias":["Antoni","Alfredo","Ramon","Claudia","Cristobal (Vacaciones)","Carlos"]
         },
         {
           "tipo":"A",
-          "dias":["","","Maximo","Claudia","Fernando","Santiago"]
+          "dias":["Dani","","","Reveca","Julen","Maximo"]
         },
         {
           "tipo":"B",
-          "dias":["Joseph","Alfredo","Paco","Jose","Aaron",""]
+          "dias":["Fernando","Joseph","Jose","Paco","Alba",""]
         },
         {
           "tipo":"B",
-          "dias":["Reveca","Julen","Alejandro","Dani","Cristobal",""]
+          "dias":["Cristobal","Antoni","Alejandro","Cristian","Santiago",""]
         },
         {
           "tipo":"B",
-          "dias":["","Maximo","Alba","Carlos","Ramon",""]
+          "dias":["Alfredo","Ramon","Aaron","Jorge","Claudia",""]
         },
         {
           "tipo":"B",
-          "dias":["","","Claudia","Fernando","Cristian",""]
+          "dias":["","","Reveca","Julen","Dani",""]
         }
       ]
     },
     {
-      "lunes":"2027-04-19",
+      "lunes":"2026-04-20",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Paco","Jose","Aaron","Joseph","Cristobal",""]
+          "dias":["Jose","Paco","Alba","Fernando","Santiago",""]
         },
         {
           "tipo":"A",
-          "dias":["Dani","Antoni","Santiago","Julen","Alejandro",""]
+          "dias":["Cristian","Antoni","Carlos","Maximo","Alejandro",""]
         },
         {
           "tipo":"A",
-          "dias":["Alba","","Alfredo","Reveca","Cristian","Ramon"]
+          "dias":["Julen","Joseph","Claudia","Cristobal","Dani","Jorge"]
         },
         {
           "tipo":"A",
-          "dias":["Fernando","","","Maximo","Claudia","Carlos"]
+          "dias":["","","Alfredo","Ramon","Reveca","Aaron"]
         },
         {
           "tipo":"B",
-          "dias":["Cristobal","Paco","Jose","Aaron","Joseph",""]
+          "dias":["Santiago","Jose","Paco","Alba","Fernando",""]
         },
         {
           "tipo":"B",
-          "dias":["Antoni","Santiago","Julen","Alejandro","Dani",""]
+          "dias":["Antoni","Carlos","Maximo","Alejandro","Cristian",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristian","Alba","Maximo","Claudia","Reveca",""]
+          "dias":["Dani","Alfredo","Ramon","Claudia","Cristobal",""]
         },
         {
           "tipo":"B",
-          "dias":["","Alfredo","","","Fernando",""]
+          "dias":["Joseph","","","Reveca","Julen",""]
         }
       ]
     },
     {
-      "lunes":"2027-04-26",
+      "lunes":"2026-04-27",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Jose","Aaron","Joseph","Cristobal","Dani",""]
+          "dias":["Paco","Alba","Fernando","Santiago (Vacaciones)","",""]
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","Alba","Antoni","Santiago","Julen",""]
+          "dias":["Alejandro","Aaron","Antoni","Carlos","",""]
         },
         {
           "tipo":"A",
-          "dias":["Carlos","Ramon","Reveca","Alfredo","Maximo","Fernando"]
+          "dias":["Jorge","Claudia","Joseph","Alfredo","","Dani"]
         },
         {
           "tipo":"A",
-          "dias":["Claudia","","Paco","","","Cristian"]
+          "dias":["Reveca","Jose","","","","Cristobal"]
         },
         {
           "tipo":"B",
-          "dias":["Dani","Jose","Aaron","Joseph","Cristobal",""]
+          "dias":["Cristian","Paco","Alba","Fernando","",""]
         },
         {
           "tipo":"B",
-          "dias":["Alba","Antoni","Santiago","Julen","Alejandro",""]
+          "dias":["Aaron","Antoni","Carlos","Maximo","",""]
         },
         {
           "tipo":"B",
-          "dias":["","Carlos","Ramon","Reveca","Claudia",""]
+          "dias":["Julen","Jorge","Claudia","Ramon","",""]
         },
         {
           "tipo":"B",
-          "dias":["","Paco","Alfredo","Maximo","",""]
+          "dias":["Jose","Joseph","Alfredo","","",""]
         }
       ]
     },
     {
-      "lunes":"2027-05-03",
+      "lunes":"2026-05-04",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Aaron","Joseph","Cristobal","Dani","Alejandro",""]
+          "dias":["Alba","Fernando","Santiago","Cristian","Alejandro",""]
         },
         {
           "tipo":"A",
-          "dias":["Julen","Carlos","Alba","Antoni","Santiago",""]
+          "dias":["Maximo","Jorge","Aaron","Antoni","Carlos",""]
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Reveca","Cristian","Fernando","Claudia","Alfredo"]
+          "dias":["Claudia","Cristobal","Dani","Julen","Alfredo","Ramon"]
         },
         {
           "tipo":"A",
-          "dias":["","","Jose","Paco","","Maximo"]
+          "dias":["","Paco","Jose","Joseph","","Reveca"]
         }
       ]
     },
     {
-      "lunes":"2027-05-10",
+      "lunes":"2026-05-11",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Joseph","Cristobal","Dani","Alejandro","Julen",""]
+          "dias":["Fernando","Santiago","Cristian","Alejandro","Maximo",""]
         },
         {
           "tipo":"A",
-          "dias":["Santiago","Ramon","Carlos","Alba","Antoni",""]
+          "dias":["Carlos","Claudia","Jorge","Aaron","Antoni",""]
         },
         {
           "tipo":"A",
-          "dias":["Reveca","Cristian","Fernando","Claudia","Maximo","Aaron"]
+          "dias":["Cristobal","Dani","Julen","Reveca","Ramon","Jose"]
         },
         {
           "tipo":"A",
-          "dias":["Alfredo","","","","Paco","Jose"]
+          "dias":["Alfredo","Alba (Vacaciones)","Paco","","","Joseph"]
         }
       ]
     },
     {
-      "lunes":"2027-05-17",
+      "lunes":"2026-05-18",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Antoni","Reveca","Alejandro","Julen","Santiago",""]
+          "dias":["Santiago","Cristian","Alejandro","Maximo","Carlos",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristian","Fernando","Ramon","Carlos","Alba",""]
+          "dias":["Antoni","Cristobal","Claudia (Vacaciones)","Jorge","Aaron",""]
         },
         {
           "tipo":"A",
-          "dias":["Paco","","Claudia","Maximo","Alfredo","Dani"]
+          "dias":["Dani","Julen","Reveca","Ramon","Alfredo","Fernando"]
         },
         {
           "tipo":"A",
-          "dias":["","","Joseph","Aaron","Jose","Cristobal"]
+          "dias":["Joseph","","","Paco","Jose (Vacaciones)","Alba"]
         }
       ]
     },
     {
-      "lunes":"2027-05-24",
+      "lunes":"2026-05-25",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Dani","Alejandro","Reveca","Ramon","Antoni",""]
+          "dias":["Aaron","Dani","Maximo","Carlos","Antoni",""]
         },
         {
           "tipo":"A",
-          "dias":["Alba","Cristian","Maximo","Alfredo","Carlos",""]
+          "dias":["Julen","Reveca","Cristobal","Claudia","Jorge",""]
         },
         {
           "tipo":"A",
-          "dias":["Fernando","Claudia","Cristobal","Joseph","Paco","Santiago"]
+          "dias":["Jose","Santiago","Ramon","Alfredo","Joseph","Alejandro"]
         },
         {
           "tipo":"A",
-          "dias":["Jose","","","","Aaron","Julen"]
+          "dias":["","","Fernando","Alba","Paco","Cristian"]
         }
       ]
     },
     {
-      "lunes":"2027-05-31",
+      "lunes":"2026-06-01",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alejandro","Julen","Santiago","Antoni","Ramon",""]
+          "dias":["Alejandro","Maximo","Dani","Cristobal","Aaron",""]
         },
         {
           "tipo":"A",
-          "dias":["Claudia","Fernando","Cristian","Reveca","Jose",""]
+          "dias":["Jorge","Julen (Vacaciones)","Alfredo","Joseph","Claudia",""]
         },
         {
           "tipo":"A",
-          "dias":["Aaron","Maximo","Alfredo","Paco","Joseph","Carlos"]
+          "dias":["Reveca","Ramon","Santiago","Fernando","Jose","Antoni"]
         },
         {
           "tipo":"A",
-          "dias":["","","Dani","Cristobal","","Alba"]
+          "dias":["Paco","Cristian","","","Alba","Carlos"]
         }
       ]
     },
     {
-      "lunes":"2027-06-07",
+      "lunes":"2026-06-08",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Julen","Santiago","Antoni","Alba","Carlos",""]
+          "dias":["Maximo","Carlos","Antoni","Aaron","Cristobal",""]
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Claudia","Fernando","Jose","Aaron",""]
+          "dias":["Ramon","Reveca","Julen (Vacaciones)","Dani","Paco",""]
         },
         {
           "tipo":"A",
-          "dias":["Maximo","Alfredo","Paco","Dani","Cristobal","Cristian"]
+          "dias":["Alba","Alfredo","Joseph","Jose","Fernando","Claudia"]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","","Alejandro","","","Reveca"]
+          "dias":["","Alejandro","Cristian","Santiago","","Jorge"]
         }
       ]
     },
     {
-      "lunes":"2027-06-14",
+      "lunes":"2026-06-15",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Santiago","Antoni","Alba","Carlos","Ramon",""]
+          "dias":["Carlos","Antoni","Aaron (Vacaciones)","Jorge","Claudia",""]
         },
         {
           "tipo":"A",
-          "dias":["Reveca","Paco","Jose","Fernando","Cristian",""]
+          "dias":["Cristobal","Ramon","Reveca","Paco","Alba",""]
         },
         {
           "tipo":"A",
-          "dias":["Alfredo","","Julen","Aaron","Joseph","Maximo"]
+          "dias":["Alfredo","Joseph","Jose","Cristian","Santiago","Julen"]
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","","","Alejandro","Dani","Claudia"]
+          "dias":["Fernando","Maximo","Alejandro","","","Dani"]
         }
       ]
     },
     {
-      "lunes":"2027-06-21",
+      "lunes":"2026-06-22",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Antoni","Alba","Carlos","Ramon","Reveca",""]
+          "dias":["Antoni","Aaron","","Claudia","Cristobal",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristian","Alfredo","Maximo","Claudia","Fernando",""]
+          "dias":["Dani","Jose (Vacaciones)","","Reveca","Julen",""]
         },
         {
           "tipo":"A",
-          "dias":["Dani","","Aaron","Joseph","Cristobal","Jose"]
+          "dias":["Joseph","Carlos (Vacaciones)","","Alba","Fernando","Alfredo"]
         },
         {
           "tipo":"A",
-          "dias":["","","Santiago","Julen","Alejandro","Paco"]
+          "dias":["Santiago","","","Alejandro","Cristian","Ramon"]
         }
       ]
     },
     {
-      "lunes":"2027-06-28",
+      "lunes":"2026-06-29",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alba","Carlos","Ramon","Reveca","Cristian",""]
+          "dias":["Aaron","Jorge (Vacaciones)","Claudia","Cristobal","Dani",""]
         },
         {
           "tipo":"A",
-          "dias":["Fernando","Paco","Alfredo","Maximo","Claudia",""]
+          "dias":["Julen","Joseph","Alfredo","Ramon","Reveca",""]
         },
         {
           "tipo":"A",
-          "dias":["Jose","Aaron","Antoni","Santiago","Dani","Cristobal"]
+          "dias":["Cristian","Antoni","Alba","Fernando","Santiago (Vacaciones)","Paco"]
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","","","","Julen","Joseph"]
+          "dias":["","","Carlos","Maximo","Alejandro","Jose"]
         }
       ]
     },
     {
-      "lunes":"2027-07-05",
+      "lunes":"2026-07-06",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Carlos","Ramon","Reveca","Cristian","Fernando",""]
+          "dias":["Jorge","Claudia","Cristobal","Dani","Julen",""]
         },
         {
           "tipo":"A",
-          "dias":["Claudia","Jose","Paco","Alfredo","Maximo",""]
+          "dias":["Reveca","Jose (Vacaciones)","Joseph (Vacaciones)","Alfredo","Ramon",""]
         },
         {
           "tipo":"A",
-          "dias":["Aaron","Joseph","Cristobal","Dani","Santiago","Julen"]
+          "dias":["Paco (Vacaciones)","Alba","Antoni","Carlos","Cristian","Santiago"]
         },
         {
           "tipo":"A",
-          "dias":["","","Alba","Antoni","","Alejandro"]
+          "dias":["Alejandro","Aaron","","","Maximo","Fernando"]
         }
       ]
     },
     {
-      "lunes":"2027-07-12",
+      "lunes":"2026-07-13",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Ramon","Reveca","Cristian","Fernando","Claudia",""]
+          "dias":["Claudia","Cristobal","Dani","Julen","Reveca",""]
         },
         {
           "tipo":"A",
-          "dias":["Maximo","Aaron","Jose","Paco","Alfredo",""]
+          "dias":["Ramon","Paco","Jose","Joseph","Alfredo",""]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","Cristobal","Dani","Alejandro","Julen","Alba"]
+          "dias":["Alba","Fernando","Santiago","Cristian","Carlos","Maximo"]
         },
         {
           "tipo":"A",
-          "dias":["Santiago","","Carlos","","","Antoni"]
+          "dias":["","Jorge","Aaron","Antoni","","Alejandro"]
         }
       ]
     },
     {
-      "lunes":"2027-07-19",
+      "lunes":"2026-07-20",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alfredo","Cristian","Fernando","Claudia","Maximo",""]
+          "dias":["Cristobal","Dani","Julen","Reveca","Ramon",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","Joseph","Aaron","Jose","Paco",""]
+          "dias":["Alfredo (Vacaciones)","Alba","Paco","Jose","Joseph",""]
         },
         {
           "tipo":"A",
-          "dias":["Antoni","Dani","Alejandro","Julen","Santiago","Ramon"]
+          "dias":["Fernando","Santiago","Cristian","Alejandro (Vacaciones)","Maximo","Aaron"]
         },
         {
           "tipo":"A",
-          "dias":["","","","Carlos","Alba","Reveca"]
+          "dias":["Carlos","Claudia","Jorge","","","Antoni"]
         }
       ]
     },
     {
-      "lunes":"2027-07-26",
+      "lunes":"2026-07-27",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Cristian","Cristobal","Joseph","Maximo","Alfredo",""]
+          "dias":["Dani","Julen","Reveca","Ramon","Alfredo",""]
         },
         {
           "tipo":"A",
-          "dias":["Paco","Alejandro","Julen","Aaron","Jose",""]
+          "dias":["Joseph","Fernando","Alba","Paco","Jose",""]
         },
         {
           "tipo":"A",
-          "dias":["Dani","","Reveca","Santiago","Antoni","Claudia"]
+          "dias":["Santiago","Cristian","Alejandro","Maximo","Carlos","Cristobal"]
         },
         {
           "tipo":"A",
-          "dias":["Alba","","","Ramon","Carlos","Fernando"]
+          "dias":["Antoni","","","Jorge","Aaron","Claudia"]
         }
       ]
     },
     {
-      "lunes":"2027-08-02",
+      "lunes":"2026-08-03",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Fernando","Claudia","Maximo","Joseph","Aaron",""]
+          "dias":["Jose","Santiago","Ramon","Alfredo","Joseph",""]
         },
         {
           "tipo":"A",
-          "dias":["Jose","Dani","Cristobal","Antoni","Alba",""]
+          "dias":["Cristian","Alejandro","Fernando","Alba","Paco (Baja)",""]
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","Julen","Santiago","Reveca","Ramon","Paco"]
+          "dias":["Aaron","Dani","Maximo","Carlos","Antoni","Reveca"]
         },
         {
           "tipo":"A",
-          "dias":["Carlos","","Cristian","","","Alfredo"]
+          "dias":["","","Cristobal","Claudia","Jorge (Vacaciones)","Julen"]
         }
       ]
     },
     {
-      "lunes":"2027-08-09",
+      "lunes":"2026-08-10",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Claudia","Maximo","Alfredo","Paco","Jose",""]
+          "dias":["Reveca (Vacaciones)","Ramon (Vacaciones)","Santiago (Vacaciones)","Fernando","Jose",""]
         },
         {
           "tipo":"A",
-          "dias":["Julen","Alejandro","Dani","Cristobal","Carlos",""]
+          "dias":["Paco","Cristian","Carlos","Antoni","Alba (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Santiago","Antoni","Alba","Reveca","Joseph"]
+          "dias":["Alejandro","Maximo","Dani","Cristobal","Aaron","Joseph"]
         },
         {
           "tipo":"A",
-          "dias":["","","Fernando","Cristian","","Aaron"]
+          "dias":["Jorge (Vacaciones)","Julen","","","Claudia","Alfredo"]
         }
       ]
     },
     {
-      "lunes":"2027-08-16",
+      "lunes":"2026-08-17",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Maximo","Alfredo","Paco","Jose","Aaron",""]
+          "dias":["Ramon","Alfredo (Vacaciones)","Joseph","Jose","Fernando (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","Julen","Alba","Carlos","Cristobal",""]
+          "dias":["Maximo","Alejandro","Cristian","Santiago","Jorge (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Santiago","Antoni","Claudia","Fernando","Ramon","Alejandro"]
+          "dias":["Claudia","Carlos","Antoni","Aaron","Cristobal","Alba"]
         },
         {
           "tipo":"A",
-          "dias":["Reveca","","","","Cristian","Dani"]
+          "dias":["","Reveca","Julen","Dani","","Paco"]
         }
       ]
     },
     {
-      "lunes":"2027-08-23",
+      "lunes":"2026-08-24",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alfredo","Paco","Jose","Aaron","Joseph",""]
+          "dias":["Alfredo","Joseph","Jose","Paco","Alba",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","Alba","Julen","Alejandro","Dani",""]
+          "dias":["Fernando (Vacaciones)","Maximo","Alejandro","Jorge","Claudia",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristian","","Carlos","Ramon","Reveca","Antoni"]
+          "dias":["Carlos","Antoni (Vacaciones)","Aaron","Julen","Dani","Cristian"]
         },
         {
           "tipo":"A",
-          "dias":["","","Maximo","Claudia","Fernando","Santiago"]
+          "dias":["Cristobal","Ramon","Reveca","","","Santiago"]
         }
       ]
     },
     {
-      "lunes":"2027-08-30",
+      "lunes":"2026-08-31",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Paco","Jose","Aaron","Joseph","Cristobal",""]
+          "dias":["Joseph","Jose","Paco","Alba","Fernando (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Dani","Antoni","Santiago","Julen","Alejandro",""]
+          "dias":["Santiago","Aaron","Jorge","Alejandro","Cristian",""]
         },
         {
           "tipo":"A",
-          "dias":["Alba","","Alfredo","Reveca","Cristian","Ramon"]
+          "dias":["Antoni","Alfredo","Ramon","Claudia","Cristobal","Carlos"]
         },
         {
           "tipo":"A",
-          "dias":["Fernando","","","Maximo","Claudia","Carlos"]
+          "dias":["Dani","","","Reveca","Julen (Vacaciones)","Maximo"]
         }
       ]
     },
     {
-      "lunes":"2027-09-06",
+      "lunes":"2026-09-07",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Jose","Aaron","Joseph","Cristobal","Dani",""]
+          "dias":["Jose","Paco","Alba","Fernando","Santiago",""]
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","Alba","Antoni","Santiago","Julen",""]
+          "dias":["Cristian","Antoni","Carlos","Maximo","Alejandro",""]
         },
         {
           "tipo":"A",
-          "dias":["Carlos","Ramon","Reveca","Alfredo","Maximo","Fernando"]
+          "dias":["Julen","Joseph","Claudia (Vacaciones)","Cristobal","Dani (Vacaciones)","Jorge"]
         },
         {
           "tipo":"A",
-          "dias":["Claudia","","Paco","","","Cristian"]
+          "dias":["","","Alfredo","Ramon","Reveca","Aaron"]
         },
         {
           "tipo":"B",
-          "dias":["Dani","Jose","Aaron","Joseph","Cristobal",""]
+          "dias":["Santiago","Jose","Paco","Alba","Fernando",""]
         },
         {
           "tipo":"B",
-          "dias":["Alba","Antoni","Santiago","Julen","Alejandro",""]
+          "dias":["Antoni","Carlos","Maximo","Alejandro","Cristian (Vacaciones)",""]
         },
         {
           "tipo":"B",
-          "dias":["","Carlos","Ramon","Reveca","Claudia",""]
+          "dias":["Dani","Alfredo","Ramon","Claudia (Vacaciones)","Cristobal",""]
         },
         {
           "tipo":"B",
-          "dias":["","Paco","Alfredo","Maximo","",""]
+          "dias":["Joseph","","","Reveca","Julen",""]
         }
       ]
     },
     {
-      "lunes":"2027-09-13",
+      "lunes":"2026-09-14",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Aaron","Joseph","Cristobal","Dani","Alejandro",""]
+          "dias":["Paco","Alba","Fernando","Santiago","Cristian (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Julen","Carlos","Alba","Antoni","Santiago",""]
+          "dias":["Alejandro","Aaron (Vacaciones)","Antoni","Carlos","Maximo",""]
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Reveca","Cristian","Fernando","Claudia","Alfredo"]
+          "dias":["Jorge","Claudia (Vacaciones)","Joseph","Alfredo","Julen","Dani"]
         },
         {
           "tipo":"A",
-          "dias":["","","Jose","Paco","","Maximo"]
+          "dias":["Reveca","Jose","","","Ramon","Cristobal"]
         },
         {
           "tipo":"B",
-          "dias":["Alejandro","Aaron","Joseph","Cristobal","Dani",""]
+          "dias":["Cristian (Vacaciones)","Paco","Alba","Fernando","Santiago",""]
         },
         {
           "tipo":"B",
-          "dias":["Carlos","Alba","Antoni","Santiago","Julen",""]
+          "dias":["Aaron (Vacaciones)","Antoni","Carlos","Maximo","Alejandro",""]
         },
         {
           "tipo":"B",
-          "dias":["Claudia","Ramon","Reveca","Cristian","Fernando",""]
+          "dias":["Julen","Jorge","Claudia (Vacaciones)","Ramon","Reveca",""]
         },
         {
           "tipo":"B",
-          "dias":["","Jose","Paco","","",""]
+          "dias":["Jose","Joseph","Alfredo","","",""]
         }
       ]
     },
     {
-      "lunes":"2027-09-20",
+      "lunes":"2026-09-21",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Joseph","Cristobal","Dani","Alejandro","Julen",""]
+          "dias":["Alba","Fernando","Santiago","Cristian","Alejandro",""]
         },
         {
           "tipo":"A",
-          "dias":["Santiago","Ramon","Carlos","Alba","Antoni",""]
+          "dias":["Maximo","Jorge","Aaron (Vacaciones)","Antoni","Carlos",""]
         },
         {
           "tipo":"A",
-          "dias":["Reveca","Cristian","Fernando","Claudia","Maximo","Aaron"]
+          "dias":["Claudia (Vacaciones)","Cristobal (Vacaciones)","Dani","Julen","Alfredo","Ramon"]
         },
         {
           "tipo":"A",
-          "dias":["Alfredo","","","","Paco","Jose"]
+          "dias":["","Paco","Jose","Joseph","","Reveca"]
         },
         {
           "tipo":"B",
-          "dias":["Julen","Joseph","Cristobal","Dani","Alejandro",""]
+          "dias":["Alejandro","Alba","Fernando","Santiago","Cristian",""]
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Carlos","Alba","Antoni","Santiago",""]
+          "dias":["Jorge","Aaron (Vacaciones)","Antoni","Carlos","Maximo",""]
         },
         {
           "tipo":"B",
-          "dias":["Maximo","Reveca","Cristian","Fernando","Claudia",""]
+          "dias":["Paco","Claudia (Vacaciones)","Cristobal (Vacaciones)","Dani","Julen",""]
         },
         {
           "tipo":"B",
-          "dias":["","","","Paco","Alfredo",""]
+          "dias":["","Jose","Joseph","Alfredo","",""]
         }
       ]
     },
     {
-      "lunes":"2027-09-27",
+      "lunes":"2026-09-28",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Antoni","Reveca","Alejandro","Julen","Santiago",""]
+          "dias":["Fernando","Santiago","Cristian","Alejandro","Maximo",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristian","Fernando","Ramon","Carlos","Alba",""]
+          "dias":["Carlos","Claudia","Jorge","Aaron","Antoni",""]
         },
         {
           "tipo":"A",
-          "dias":["Paco","","Claudia","Maximo","Alfredo","Dani"]
+          "dias":["Cristobal (Vacaciones)","Dani","Julen","Reveca","Ramon","Jose"]
         },
         {
           "tipo":"A",
-          "dias":["","","Joseph","Aaron","Jose","Cristobal"]
+          "dias":["Alfredo","Alba","Paco","","","Joseph"]
         },
         {
           "tipo":"B",
-          "dias":["Santiago","Ramon","Carlos","Alejandro","Julen",""]
+          "dias":["Maximo","Fernando","Santiago","Cristian","Alejandro",""]
         },
         {
           "tipo":"B",
-          "dias":["Reveca","Cristian","Fernando","Alba","Antoni",""]
+          "dias":["Claudia","Jorge","Aaron","Antoni","Carlos",""]
         },
         {
           "tipo":"B",
-          "dias":["Alfredo","Joseph","Aaron","Claudia","Maximo",""]
+          "dias":["Ramon","Cristobal (Vacaciones)","Dani","Julen","Reveca",""]
         },
         {
           "tipo":"B",
-          "dias":["","","","Jose","Paco",""]
+          "dias":["Alba","Paco","","","Alfredo",""]
         }
       ]
     },
     {
-      "lunes":"2027-10-04",
+      "lunes":"2026-10-05",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Dani","Alejandro","Reveca","Ramon","Antoni",""]
+          "dias":["Santiago","Cristian","Alejandro","Maximo","",""]
         },
         {
           "tipo":"A",
-          "dias":["Alba","Cristian","Maximo","Alfredo","Carlos",""]
+          "dias":["Antoni","Cristobal","Claudia","Jorge","",""]
         },
         {
           "tipo":"A",
-          "dias":["Fernando","Claudia","Cristobal","Joseph","Paco","Santiago"]
+          "dias":["Dani","Julen (Vacaciones)","Reveca","Ramon","","Fernando"]
         },
         {
           "tipo":"A",
-          "dias":["Jose","","","","Aaron","Julen"]
+          "dias":["Joseph (Vacaciones)","","","Paco","","Alba"]
         },
         {
           "tipo":"B",
-          "dias":["Antoni","Dani","Alejandro","Carlos","Alba",""]
+          "dias":["Carlos (Vacaciones)","Santiago","Cristian","Alejandro","",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristian","Reveca","Ramon","Maximo","Alfredo",""]
+          "dias":["Cristobal","Claudia","Jorge","Aaron","",""]
         },
         {
           "tipo":"B",
-          "dias":["Paco","Fernando","Claudia","Aaron","Jose",""]
+          "dias":["Alfredo","Dani","Julen (Vacaciones)","Reveca","",""]
         },
         {
           "tipo":"B",
-          "dias":["","Cristobal","Joseph","","",""]
+          "dias":["","","Paco","Jose","",""]
         }
       ]
     },
     {
-      "lunes":"2027-10-11",
+      "lunes":"2026-10-12",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alejandro","","Santiago","Antoni","Ramon",""]
+          "dias":["","Dani","Maximo","Carlos (Vacaciones)","Antoni (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Claudia","","Cristian","Reveca","Jose",""]
+          "dias":["","Reveca","Cristobal","Claudia","Jorge",""]
         },
         {
           "tipo":"A",
-          "dias":["Aaron","","Alfredo","Paco","Joseph","Carlos"]
+          "dias":["","Santiago","Ramon","Alfredo","Joseph (Vacaciones)","Alejandro"]
         },
         {
           "tipo":"A",
-          "dias":["","","Dani","Cristobal","","Alba"]
+          "dias":["","","Fernando","Alba","Paco","Cristian"]
         },
         {
           "tipo":"B",
-          "dias":["Fernando","","Julen","Santiago","Antoni",""]
+          "dias":["","Cristobal","Claudia","Maximo","Carlos (Vacaciones)",""]
         },
         {
           "tipo":"B",
-          "dias":["Jose","","Reveca","Ramon","Paco",""]
+          "dias":["","Julen (Vacaciones)","Reveca","Jorge","Aaron",""]
         },
         {
           "tipo":"B",
-          "dias":["","","Maximo","Alfredo","Aaron",""]
+          "dias":["","Fernando","Alba","Ramon","Alfredo",""]
         },
         {
           "tipo":"B",
-          "dias":["","","Cristobal","Joseph","",""]
+          "dias":["","","","Paco","Jose",""]
         }
       ]
     },
     {
-      "lunes":"2027-10-18",
+      "lunes":"2026-10-19",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Julen","Santiago","Antoni","Alba","Carlos",""]
+          "dias":["Alejandro","Maximo","Dani","Cristobal","Aaron",""]
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Claudia","Fernando","Jose","Aaron",""]
+          "dias":["Jorge","Julen","Alfredo","Joseph","Claudia",""]
         },
         {
           "tipo":"A",
-          "dias":["Maximo","Alfredo","Paco","Dani","Cristobal","Cristian"]
+          "dias":["Reveca","Ramon","Santiago","Fernando","Jose","Antoni"]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","","Alejandro","","","Reveca"]
+          "dias":["Paco","Cristian","","","Alba","Carlos"]
         },
         {
           "tipo":"B",
-          "dias":["Carlos","Julen","Santiago","Antoni","Alba",""]
+          "dias":["Aaron","Alejandro","Maximo","Claudia","Jorge",""]
         },
         {
           "tipo":"B",
-          "dias":["Claudia","Fernando","Alfredo","Paco","Ramon",""]
+          "dias":["Julen","Dani","Cristobal","Alfredo","Joseph",""]
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Maximo","Dani","Cristobal","Jose",""]
+          "dias":["Jose","Reveca","Ramon","Alba","Paco",""]
         },
         {
           "tipo":"B",
-          "dias":["","Alejandro","","","Joseph",""]
+          "dias":["Cristian","Santiago","Fernando","","",""]
         }
       ]
     },
     {
-      "lunes":"2027-10-25",
+      "lunes":"2026-10-26",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Santiago","Antoni","Alba","Carlos","Ramon",""]
+          "dias":["Maximo","Carlos","Antoni","Aaron","Cristobal",""]
         },
         {
           "tipo":"A",
-          "dias":["Reveca","Paco","Jose","Fernando","Cristian",""]
+          "dias":["Ramon","Reveca","Julen","Dani","Paco",""]
         },
         {
           "tipo":"A",
-          "dias":["Alfredo","","Julen","Aaron","Joseph","Maximo"]
+          "dias":["Alba","Alfredo","Joseph","Jose","Fernando","Claudia"]
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","","","Alejandro","Dani","Claudia"]
+          "dias":["","Alejandro","Cristian","Santiago","","Jorge"]
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Santiago","Antoni","Alba","Carlos",""]
+          "dias":["Reveca","Maximo","Carlos","Antoni","Aaron",""]
         },
         {
           "tipo":"B",
-          "dias":["Joseph","Alfredo","Fernando","Cristian","Reveca",""]
+          "dias":["Paco","Julen","Dani","Cristobal","Jose",""]
         },
         {
           "tipo":"B",
-          "dias":["","Julen","Paco","Jose","Aaron",""]
+          "dias":["Alejandro","Ramon","Alfredo","Joseph","Alba",""]
         },
         {
           "tipo":"B",
-          "dias":["","","Alejandro","Dani","Cristobal",""]
+          "dias":["","Cristian","Santiago","Fernando","",""]
         }
       ]
     },
     {
-      "lunes":"2027-11-01",
+      "lunes":"2026-11-02",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Antoni","Alba","Carlos","Ramon","Reveca",""]
+          "dias":["Carlos","Antoni","Aaron","Jorge","Claudia",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristian","Alfredo","Maximo","Claudia","Fernando",""]
+          "dias":["Cristobal","Ramon","Reveca","Paco","Alba",""]
         },
         {
           "tipo":"A",
-          "dias":["Dani","","Aaron","Joseph","Cristobal","Jose"]
+          "dias":["Alfredo","Joseph","Jose","Cristian (Vacaciones)","Santiago","Julen"]
         },
         {
           "tipo":"A",
-          "dias":["","","Santiago","Julen","Alejandro","Paco"]
+          "dias":["Fernando","Maximo","Alejandro","","","Dani"]
         },
         {
           "tipo":"B",
-          "dias":["Reveca","Antoni","Alba","Carlos","Ramon",""]
+          "dias":["Claudia","Carlos","Antoni","Aaron","Jorge",""]
         },
         {
           "tipo":"B",
-          "dias":["Alfredo","Maximo","Claudia","Fernando","Cristian",""]
+          "dias":["Ramon","Reveca","Joseph","Jose","Cristobal",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristobal","Santiago","Julen","Aaron","Joseph",""]
+          "dias":["Alba","Alfredo","Cristian (Vacaciones)","Santiago","Paco",""]
         },
         {
           "tipo":"B",
-          "dias":["","","","Alejandro","Dani",""]
+          "dias":["Maximo","Alejandro","","","Fernando",""]
         }
       ]
     },
     {
-      "lunes":"2027-11-08",
+      "lunes":"2026-11-09",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alba","Carlos","Ramon","Reveca","Cristian",""]
+          "dias":["Antoni","Aaron","Jorge","Claudia","Cristobal",""]
         },
         {
           "tipo":"A",
-          "dias":["Fernando","Paco","Alfredo","Maximo","Claudia",""]
+          "dias":["Dani","Jose","Paco","Reveca","Julen",""]
         },
         {
           "tipo":"A",
-          "dias":["Jose","Aaron","Antoni","Santiago","Dani","Cristobal"]
+          "dias":["Joseph","Carlos","Maximo","Alba","Fernando","Alfredo"]
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","","","","Julen","Joseph"]
+          "dias":["Santiago","","","Alejandro","Cristian (Vacaciones)","Ramon"]
         },
         {
           "tipo":"B",
-          "dias":["Cristian","Alba","Carlos","Ramon","Reveca",""]
+          "dias":["Cristobal","Antoni","Aaron","Jorge","Claudia",""]
         },
         {
           "tipo":"B",
-          "dias":["Paco","Alfredo","Maximo","Claudia","Fernando",""]
+          "dias":["Fernando","Joseph","Reveca","Julen","Dani",""]
         },
         {
           "tipo":"B",
-          "dias":["Dani","Jose","Aaron","Julen","Alejandro",""]
+          "dias":["Carlos","Maximo","Jose","Paco","Alba",""]
         },
         {
           "tipo":"B",
-          "dias":["","Antoni","Santiago","","",""]
+          "dias":["","","Alejandro","Cristian (Vacaciones)","Santiago",""]
         }
       ]
     },
     {
-      "lunes":"2027-11-15",
+      "lunes":"2026-11-16",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Carlos","Ramon","Reveca","Cristian","Fernando",""]
+          "dias":["Aaron","Jorge","Claudia","Cristobal","Dani",""]
         },
         {
           "tipo":"A",
-          "dias":["Claudia","Jose","Paco","Alfredo","Maximo",""]
+          "dias":["Julen","Joseph","Alfredo","Ramon","Reveca",""]
         },
         {
           "tipo":"A",
-          "dias":["Aaron","Joseph","Cristobal","Dani","Santiago","Julen"]
+          "dias":["Cristian","Antoni","Alba","Fernando","Santiago","Paco"]
         },
         {
           "tipo":"A",
-          "dias":["","","Alba","Antoni","","Alejandro"]
+          "dias":["","","Carlos","Maximo","Alejandro","Jose"]
         },
         {
           "tipo":"B",
-          "dias":["Fernando","Carlos","Ramon","Reveca","Cristian",""]
+          "dias":["Dani","Aaron","Jorge","Claudia","Cristobal",""]
         },
         {
           "tipo":"B",
-          "dias":["Jose","Paco","Alfredo","Maximo","Claudia",""]
+          "dias":["Joseph","Alfredo","Ramon","Reveca","Julen",""]
         },
         {
           "tipo":"B",
-          "dias":["","Aaron","Joseph","Cristobal","Dani",""]
+          "dias":["Santiago","Carlos","Maximo","Alba","Fernando",""]
         },
         {
           "tipo":"B",
-          "dias":["","Alba","Antoni","Santiago","",""]
+          "dias":["Antoni","","","Alejandro","Cristian",""]
         }
       ]
     },
     {
-      "lunes":"2027-11-22",
+      "lunes":"2026-11-23",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Ramon","Reveca","Cristian","Fernando","Claudia",""]
+          "dias":["Jorge","Claudia","Cristobal","Dani","Julen",""]
         },
         {
           "tipo":"A",
-          "dias":["Maximo","Aaron","Jose","Paco","Alfredo",""]
+          "dias":["Reveca","Jose","Joseph","Alfredo","Ramon",""]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","Cristobal","Dani","Alejandro","Julen","Alba"]
+          "dias":["Paco","Alba","Antoni","Carlos","Cristian","Santiago"]
         },
         {
           "tipo":"A",
-          "dias":["Santiago","","Carlos","","","Antoni"]
+          "dias":["Alejandro","Aaron","","","Maximo","Fernando"]
         },
         {
           "tipo":"B",
-          "dias":["Claudia","Ramon","Reveca","Cristian","Fernando",""]
+          "dias":["Julen","Jorge","Claudia","Cristobal","Dani",""]
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Jose","Paco","Alfredo","Maximo",""]
+          "dias":["Jose","Joseph","Alfredo","Ramon","Reveca",""]
         },
         {
           "tipo":"B",
-          "dias":["Julen","Joseph","Cristobal","Dani","Alejandro",""]
+          "dias":["Cristian","Paco","Alba","Maximo","Alejandro",""]
         },
         {
           "tipo":"B",
-          "dias":["","Carlos","","","Santiago",""]
+          "dias":["Aaron","Antoni","Carlos","","",""]
         }
       ]
     },
     {
-      "lunes":"2027-11-29",
+      "lunes":"2026-11-30",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Alfredo","Cristian","Fernando","Claudia","Maximo",""]
+          "dias":["Claudia","Cristobal","Dani","Julen","Reveca",""]
         },
         {
           "tipo":"A",
-          "dias":["Cristobal","Joseph","Aaron","Jose","Paco",""]
+          "dias":["Ramon","Paco","Jose","Joseph","Alfredo",""]
         },
         {
           "tipo":"A",
-          "dias":["Antoni","Dani","Alejandro","Julen","Santiago","Ramon"]
+          "dias":["Alba","Fernando","Santiago","Cristian","Carlos","Maximo"]
         },
         {
           "tipo":"A",
-          "dias":["","","","Carlos","Alba","Reveca"]
+          "dias":["","Jorge","Aaron","Antoni","","Alejandro"]
         },
         {
           "tipo":"B",
-          "dias":["Maximo","Aaron","Cristian","Fernando","Claudia",""]
+          "dias":["Reveca","Claudia","Cristobal","Dani","Julen",""]
         },
         {
           "tipo":"B",
-          "dias":["Joseph","Cristobal","Jose","Paco","Alfredo",""]
+          "dias":["Paco","Jose","Joseph","Alfredo","Ramon",""]
         },
         {
           "tipo":"B",
-          "dias":["Santiago","","Dani","Alejandro","Julen",""]
+          "dias":["Jorge","Alba","Fernando","Santiago","Cristian",""]
         },
         {
           "tipo":"B",
-          "dias":["","","Carlos","Alba","Antoni",""]
+          "dias":["","Aaron","Antoni","Carlos","",""]
         }
       ]
     },
     {
-      "lunes":"2027-12-06",
+      "lunes":"2026-12-07",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Cristian","Cristobal","","Maximo","Alfredo",""]
+          "dias":["Cristobal","","Julen","Reveca","Ramon",""]
         },
         {
           "tipo":"A",
-          "dias":["Paco","Alejandro","","Aaron","Jose",""]
+          "dias":["Alfredo","","Paco","Jose","Joseph",""]
         },
         {
           "tipo":"A",
-          "dias":["Dani","","","Santiago","Antoni","Claudia"]
+          "dias":["Fernando (Vacaciones)","","Cristian","Alejandro","Maximo","Aaron"]
         },
         {
           "tipo":"A",
-          "dias":["Alba","","","Ramon","Carlos","Fernando"]
+          "dias":["Carlos","","Jorge","","","Antoni"]
         },
         {
           "tipo":"B",
-          "dias":["Alfredo","Cristian","","Jose","Maximo",""]
+          "dias":["Ramon","","Dani","Julen","Reveca",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristobal","Joseph","","Julen","Paco",""]
+          "dias":["Alba","","Jose","Joseph","Alfredo",""]
         },
         {
           "tipo":"B",
-          "dias":["Antoni","Dani","","Carlos","Santiago",""]
+          "dias":["Maximo","","Santiago","Cristian","Alejandro",""]
         },
         {
           "tipo":"B",
-          "dias":["","Reveca","","","Alba",""]
+          "dias":["Claudia","","","","Carlos",""]
         }
       ]
     },
     {
-      "lunes":"2027-12-13",
+      "lunes":"2026-12-14",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Fernando","Claudia","Maximo","Joseph","Aaron",""]
+          "dias":["Dani (Vacaciones)","Julen","Reveca","Ramon","Alfredo",""]
         },
         {
           "tipo":"A",
-          "dias":["Jose","Dani","Cristobal","Antoni","Alba",""]
+          "dias":["Joseph","Fernando","Alba","Paco","Jose",""]
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","Julen","Santiago","Reveca","Ramon","Paco"]
+          "dias":["Santiago","Cristian","Alejandro","Maximo","Carlos","Cristobal"]
         },
         {
           "tipo":"A",
-          "dias":["Carlos","","Cristian","","","Alfredo"]
+          "dias":["Antoni","","","Jorge","Aaron","Claudia"]
         },
         {
           "tipo":"B",
-          "dias":["Dani","Fernando","Claudia","Maximo","Jose",""]
+          "dias":["Alfredo","Dani","Julen","Reveca","Ramon",""]
         },
         {
           "tipo":"B",
-          "dias":["Alba","Cristobal","Joseph","Aaron","Antoni",""]
+          "dias":["Fernando","Alba","Paco","Jose","Joseph",""]
         },
         {
           "tipo":"B",
-          "dias":["","Alejandro","Julen","Santiago","Carlos",""]
+          "dias":["Carlos","Santiago","Cristian","Alejandro","Maximo",""]
         },
         {
           "tipo":"B",
-          "dias":["","Cristian","Reveca","Ramon","",""]
+          "dias":["","","Jorge","Aaron","Antoni",""]
         }
       ]
     },
     {
-      "lunes":"2027-12-20",
+      "lunes":"2026-12-21",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Claudia","Maximo","Alfredo","Paco","Jose",""]
+          "dias":["Jose","Santiago","Ramon (Vacaciones)","Alfredo (Vacaciones)","",""]
         },
         {
           "tipo":"A",
-          "dias":["Julen","Alejandro","Dani","Cristobal","Carlos",""]
+          "dias":["Cristian","Alejandro","Fernando (Vacaciones)","Alba (Vacaciones)","",""]
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Santiago","Antoni","Alba","Reveca","Joseph"]
+          "dias":["Aaron","Dani","Maximo","Carlos (Vacaciones)","","Reveca"]
         },
         {
           "tipo":"A",
-          "dias":["","","Fernando","Cristian","","Aaron"]
+          "dias":["","","Cristobal","Claudia (Vacaciones)","","Julen"]
         },
         {
           "tipo":"B",
-          "dias":["Jose","Claudia","Maximo","Alfredo","Paco",""]
+          "dias":["Joseph","Fernando (Vacaciones)","Alba","Ramon (Vacaciones)","",""]
         },
         {
           "tipo":"B",
-          "dias":["Alejandro","Dani","Cristobal","Antoni","Alba",""]
+          "dias":["Santiago","Cristian","Alejandro","Paco (Vacaciones)","",""]
         },
         {
           "tipo":"B",
-          "dias":["Carlos","Julen","Santiago","Reveca","Ramon",""]
+          "dias":["Antoni (Vacaciones)","Cristobal","Claudia","Maximo (Vacaciones)","",""]
         },
         {
           "tipo":"B",
-          "dias":["","Fernando","Cristian","","",""]
+          "dias":["Dani","","","Jorge (Vacaciones)","",""]
         }
       ]
     },
     {
-      "lunes":"2027-12-27",
+      "lunes":"2026-12-28",
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Maximo","Alfredo","Paco","Jose","Aaron",""]
+          "dias":["Reveca (Vacaciones)","Ramon (Vacaciones)","Santiago","Fernando (Vacaciones)","Jose",""]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","Julen","Alba","Carlos","Cristobal",""]
+          "dias":["Paco (Vacaciones)","Cristian","Carlos (Vacaciones)","Antoni (Vacaciones)","Alba",""]
         },
         {
           "tipo":"A",
-          "dias":["Santiago","Antoni","Claudia","Fernando","Ramon","Alejandro"]
+          "dias":["Alejandro","Maximo","Dani","Cristobal (Vacaciones)","Aaron","Joseph"]
         },
         {
           "tipo":"A",
-          "dias":["Reveca","","","","Cristian","Dani"]
+          "dias":["Jorge","Julen","","","Claudia","Alfredo"]
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Maximo","Alfredo","Paco","Jose",""]
+          "dias":["Jose","Reveca (Vacaciones)","Ramon (Vacaciones)","Alba (Vacaciones)","Paco",""]
         },
         {
           "tipo":"B",
-          "dias":["Julen","Santiago","Antoni","Cristobal","Joseph",""]
+          "dias":["Cristian","Santiago","Fernando (Vacaciones)","Carlos (Vacaciones)","Antoni",""]
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Claudia","Fernando","Alba","Carlos",""]
+          "dias":["Aaron","Alejandro","Maximo","Claudia (Vacaciones)","Jorge",""]
         },
         {
           "tipo":"B",
-          "dias":["","","","Cristian","Reveca",""]
+          "dias":["Julen","Dani","Cristobal (Vacaciones)","","",""]
         }
       ]
     }
