@@ -383,7 +383,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Aaron (Vacaciones)","Dani (Vacaciones)","Maximo (Vacaciones)","","Antoni","Reveca"]
+          "dias":["Aaron","Dani (Vacaciones)","Maximo (Vacaciones)","","Antoni","Reveca"]
         },
         {
           "tipo":"A",
@@ -403,7 +403,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Dani (Vacaciones)","","","","Aaron (Vacaciones)",""]
+          "dias":["Dani (Vacaciones)","","","","Aaron",""]
         }
       ]
     },
@@ -667,7 +667,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Alfredo","Alba (Vacaciones)","Paco","","","Joseph"]
+          "dias":["Alfredo","Alba","Paco","","","Joseph"]
         }
       ]
     },
@@ -760,7 +760,7 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Carlos","Antoni","Aaron (Vacaciones)","Jorge","Claudia",""]
+          "dias":["Carlos","Antoni","Aaron","Jorge","Claudia",""]
         },
         {
           "tipo":"A",
@@ -1053,7 +1053,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Alejandro","Aaron (Vacaciones)","Antoni","Carlos","Maximo",""]
+          "dias":["Alejandro","Aaron","Antoni","Carlos","Maximo",""]
         },
         {
           "tipo":"A",
@@ -1069,7 +1069,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Aaron (Vacaciones)","Antoni","Carlos","Maximo","Alejandro",""]
+          "dias":["Aaron","Antoni","Carlos","Maximo","Alejandro",""]
         },
         {
           "tipo":"B",
@@ -1090,7 +1090,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Maximo","Jorge","Aaron (Vacaciones)","Antoni","Carlos",""]
+          "dias":["Maximo","Jorge","Aaron","Antoni","Carlos",""]
         },
         {
           "tipo":"A",
@@ -1106,7 +1106,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Jorge","Aaron (Vacaciones)","Antoni","Carlos","Maximo",""]
+          "dias":["Jorge","Aaron","Antoni","Carlos","Maximo",""]
         },
         {
           "tipo":"B",
