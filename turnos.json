@@ -120,35 +120,35 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":["Cristobal (Vacaciones)","Alejandro","Reveca (Vacaciones)"," ","Santiago (Vacaciones)",""]
+          "dias":["Cristobal (Vacaciones)","Alejandro (Vacaciones)","Reveca (Vacaciones)"," ","Santiago (Vacaciones)",""]
         },
         {
           "tipo":"B",
-          "dias":["Alejandro","Reveca (Vacaciones)"," ","Santiago (Vacaciones)","Ramon (Vacaciones)",""]
+          "dias":["Alejandro (Vacaciones)","Reveca (Vacaciones)"," ","Santiago (Vacaciones)","Ramon (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Ramon (Vacaciones)","Joseph (Vacaciones)","Antoni","Cristian (Vacaciones)","Jose (Vacaciones)",""]
+          "dias":["Ramon (Vacaciones)","Joseph (Vacaciones)","Antoni (Vacaciones)","Cristian (Vacaciones)","Jose (Vacaciones)",""]
         },
         {
           "tipo":"B",
-          "dias":["Joseph (Vacaciones)","Antoni","Cristian (Vacaciones)","Jose (Vacaciones)","Cristobal (Vacaciones)",""]
+          "dias":["Joseph (Vacaciones)","Antoni (Vacaciones)","Cristian (Vacaciones)","Jose (Vacaciones)","Cristobal (Vacaciones)",""]
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Paco (Vacaciones)","","Carlos","Alba",""]
+          "dias":["Aaron (Vacaciones)","Paco (Vacaciones)","","Carlos (Vacaciones)","Alba (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Paco (Vacaciones)","","Carlos","Alba","Julen (Vacaciones)","Maximo"]
+          "dias":["Paco (Vacaciones)","","Carlos (Vacaciones)","Alba (Vacaciones)","Julen (Vacaciones)","Maximo"]
         },
         {
           "tipo":"B",
-          "dias":["Julen (Vacaciones)","Aaron","Claudia (Vacaciones)","Alfredo","Fernando (Vacaciones)",""]
+          "dias":["Julen (Vacaciones)","Aaron (Vacaciones)","Claudia (Vacaciones)","Alfredo (Vacaciones)","Fernando (Vacaciones)",""]
         },
         {
           "tipo":"A",
-          "dias":["Antoni","Claudia (Vacaciones)","Alfredo","Fernando (Vacaciones)","","Daniel"]
+          "dias":["Antoni (Vacaciones)","Claudia (Vacaciones)","Alfredo (Vacaciones)","Fernando (Vacaciones)","","Daniel"]
         }
       ]
     },
