@@ -1428,7 +1428,7 @@
         },
         {
           "tipo":"A",
-          "dias":["","Joseph","Antoni","Cristian","Jose",""]
+          "dias":["","Joseph (Vacaciones)","Antoni","Cristian","Jose",""]
         },
         {
           "tipo":"B",
@@ -1494,11 +1494,11 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":[""," ","Santiago","Ramon","Joseph",""]
+          "dias":[""," ","Santiago","Ramon","Joseph (Vacaciones)",""]
         },
         {
           "tipo":"B",
-          "dias":[" ","Santiago","Ramon","Joseph","Antoni",""]
+          "dias":[" ","Santiago","Ramon","Joseph (Vacaciones)","Antoni",""]
         },
         {
           "tipo":"A",
@@ -1531,11 +1531,11 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":["","Santiago","Ramon","Joseph","Antoni",""]
+          "dias":["","Santiago","Ramon","Joseph (Vacaciones)","Antoni",""]
         },
         {
           "tipo":"B",
-          "dias":["Santiago","Ramon","Joseph","Antoni","Cristian",""]
+          "dias":["Santiago","Ramon","Joseph (Vacaciones)","Antoni","Cristian",""]
         },
         {
           "tipo":"A",
@@ -1572,7 +1572,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Joseph","Antoni","Cristian","Jose",""]
+          "dias":["Ramon","Joseph (Vacaciones)","Antoni","Cristian","Jose",""]
         },
         {
           "tipo":"A",
