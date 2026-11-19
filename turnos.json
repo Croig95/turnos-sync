@@ -5,19 +5,19 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":["","Reveca","","Reveca","Alejandro",""]
+          "dias":["","Cristobal","","Reveca","Maximo",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristobal","Alejandro","","Maximo","Antoni",""]
+          "dias":["Cristobal","Alejandro","","Maximo","Santiago",""]
         },
         {
           "tipo":"A",
-          "dias":["Joseph","Ramon","","Antoni","Cristian",""]
+          "dias":["Santiago","Ramon","","Antoni","Cristian",""]
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Joseph","","Cristian","","Joseph"]
+          "dias":["Ramon","Joseph","","Cristian","","Jose"]
         },
         {
           "tipo":"A",
@@ -25,11 +25,11 @@
         },
         {
           "tipo":"B",
-          "dias":["Daniel","Paco","","Carlos","Claudia",""]
+          "dias":["Daniel","Paco","","Carlos","Alba",""]
         },
         {
           "tipo":"A",
-          "dias":["Aaron","Julen","","Claudia","Alfredo",""]
+          "dias":["Alba","Julen","","Claudia","Alfredo",""]
         },
         {
           "tipo":"B",
@@ -50,7 +50,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Ramon","Joseph","Antoni","Cristian","Joseph",""]
+          "dias":["Ramon","Joseph","Antoni","Cristian","Jose",""]
         },
         {
           "tipo":"B",
@@ -58,7 +58,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Daniel","Paco","","Carlos","Aaron",""]
+          "dias":["","Paco","","Carlos","Alba",""]
         },
         {
           "tipo":"B",
@@ -70,7 +70,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Aaron","Claudia","Alfredo","Fernando","Daniel","Maximo"]
+          "dias":["Aaron","Claudia","Alfredo","Fernando","","Daniel"]
         }
       ]
     },
@@ -774,7 +774,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Fernando","Daniel","Paco","Alfredo","Carlos",""]
+          "dias":["Fernando","Daniel","Paco","Maximo","Carlos",""]
         },
         {
           "tipo":"B",
@@ -799,7 +799,7 @@
         },
         {
           "tipo":"A",
-          "dias":["Daniel","Paco","Cristian","Carlos","Alba",""]
+          "dias":["Daniel","Paco","Maximo","Carlos","Alba",""]
         },
         {
           "tipo":"B",
@@ -1428,7 +1428,7 @@
         },
         {
           "tipo":"A",
-          "dias":["","Joseph (Vacaciones)","Antoni","Cristian","Jose",""]
+          "dias":["","Joseph","Antoni","Cristian","Jose",""]
         },
         {
           "tipo":"B",
@@ -1494,11 +1494,11 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":[""," ","Santiago","Ramon","Joseph (Vacaciones)",""]
+          "dias":[""," ","Santiago","Ramon","Joseph",""]
         },
         {
           "tipo":"B",
-          "dias":[" ","Santiago","Ramon","Joseph (Vacaciones)","Antoni",""]
+          "dias":[" ","Santiago","Ramon","Joseph","Antoni",""]
         },
         {
           "tipo":"A",
@@ -1531,11 +1531,11 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":["","Santiago","Ramon","Joseph (Vacaciones)","Antoni",""]
+          "dias":["","Santiago","Ramon","Joseph","Antoni",""]
         },
         {
           "tipo":"B",
-          "dias":["Santiago","Ramon","Joseph (Vacaciones)","Antoni","Cristian",""]
+          "dias":["Santiago","Ramon","Joseph","Antoni","Cristian",""]
         },
         {
           "tipo":"A",
@@ -1572,7 +1572,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Joseph (Vacaciones)","Antoni","Cristian","Jose",""]
+          "dias":["Ramon","Joseph","Antoni","Cristian","Jose",""]
         },
         {
           "tipo":"A",
