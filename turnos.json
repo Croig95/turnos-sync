@@ -5,11 +5,11 @@
       "turnos":[
         {
           "tipo":"A",
-          "dias":["","Cristobal","","Reveca","Maximo",""]
+          "dias":["Fernando","Cristobal","","Reveca","",""]
         },
         {
           "tipo":"B",
-          "dias":["Cristobal","Alejandro","","Maximo","Santiago",""]
+          "dias":["Cristobal","Alejandro","","","Santiago",""]
         },
         {
           "tipo":"A",
@@ -17,7 +17,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Ramon","Joseph","","Cristian","","Jose"]
+          "dias":["Ramon","Joseph","","Cristian","Fernando","Jose"]
         },
         {
           "tipo":"A",
@@ -33,7 +33,7 @@
         },
         {
           "tipo":"B",
-          "dias":["Julen","Aaron","","Alfredo","","Fernando"]
+          "dias":["Julen","Aaron","","Alfredo","","Maximo"]
         }
       ]
     },
